@@ -1,0 +1,8 @@
+#myCanvas{
+  margin-left: auto;
+  margin-right: auto;
+  border: solid black 4px;
+  background: url("img\\Road.png");
+  background-repeat: no-repeat;
+  display: block;
+	}
